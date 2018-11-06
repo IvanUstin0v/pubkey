@@ -27,4 +27,6 @@ Dg==
 
 ```
 
+Fingerprint: `09AF 4B32 CAC9 95ED CC2F A728 D942 5ED7 5929 000A`
+
 Happy coding!
